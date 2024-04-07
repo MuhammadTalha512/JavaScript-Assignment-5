@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #1d3557;
+    }
+    body{
+        background-color: #f1faee !important;
+    }
+    
+    main{
+        flex: 1 0 auto;
+        .buttons{
+             .btn{
+                margin-bottom: 8px;
+                min-width: 45%;
+             }
+        }
+        #originaltextbox{
+            background-color: #1d3557;
+        }
+        .outputresult{
+            height: 84%;
+        }
+    }
+    .border1{
+        background-color: #1d3557 ;
+        color: white;
+        height: 100px;
+        
+    }
+    footer{
+        margin-top: 20%;
+    }
+        footer,p{
+     background-color: #1d3557;
+        }
